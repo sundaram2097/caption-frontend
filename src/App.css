@@ -1,0 +1,110 @@
+ html, #root,react-root {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  color: black;
+  /* display: flex;  */
+  justify-content: center;
+  align-items: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.day{  
+  margin-top: 150px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  border: 2px solid white;
+  color: white;
+  font-size: 20px;
+}
+.btn{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.red {
+  background-color: red;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+
+.green {
+  background-color: green;
+} 
+/* tuesday */
+.naviblue{
+  background-color: rgb(13, 138, 200);
+}
+.pink{
+  background-color: rgb(225, 12, 189);
+}
+.gray{
+  background-color: gray;
+}
+.gold{
+  background-color: rgba(219, 243, 0, 0.781);
+}
+/* wednesday */
+.babyblue{
+  background-color: rgb(178, 178, 235);
+}
+.salmon{
+  background-color: salmon;
+}
+.ruby{
+  background-color: rgba(232, 53, 202, 0.923);
+}
+.limegreen{
+  background-color: limegreen;
+}
+/* thursday */
+.orange{
+  background-color: orange;
+}
+.violet{
+  background-color: violet;
+}
+.aqua{
+  background-color: aqua;
+}
+.maroon{
+  background-color: maroon;
+}
+/* friday */
+.azure{
+  background-color: azure;
+  color:brown
+}
+.applegreen{
+  background-color: rgb(65, 242, 65);
+}
+.lavender{
+  background-color: rgb(141, 177, 218);
+}
+.ultramarine{
+  background-color: rgba(23, 0, 125, 0.886);
+}
+.wheat{
+  background-color: wheat;
+}
+.navy{
+  background-color: navy;
+}
+.teal{
+  background-color: teal;
+}
